@@ -1,3 +1,7 @@
+## 0.63.102 (2014-04-17)
+
+* Add shell quoting back in - it's necessary if you're going to pass in unquoted evaluated strings!
+
 ## 0.63.101 (2013-12-18)
 
 * 9F: Stop shell quoting - it's unnecessary
